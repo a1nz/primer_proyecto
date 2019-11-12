@@ -14,3 +14,9 @@
     left: 0;
     width: 100%;
    }
+
+hr{
+    
+    border-block-width: 3px;
+    border-color: lightblue;
+}
