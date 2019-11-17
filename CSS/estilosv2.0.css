@@ -8,3 +8,16 @@
 
   margin-left: 1%;
 }
+
+#fondo{
+  margin: 0;
+  background-image: url('https://hb.imgix.net/8f05a20ce6e4c2d72bf5dff9fd2eb2b253ddae6b.png?auto=format&bg=E4E7ED&fm=jpg&max-h=750&q=80&s=b6af29539cc796b1d75803d4ca7ba3fe');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#carousell{
+
+  padding-top: 5%;
+}
